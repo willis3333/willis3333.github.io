@@ -1,0 +1,19 @@
+Prereqs:
+    -browser 
+    -Text Editor (VS Code)
+
+TODOs
+
+1. Build the project
+    - creating folder structure
+    -add files
+    -connect files
+2. Nav Bar
+    -2 links and a name
+3. Portfolio Item Grid
+    -images
+    -titles
+    -description
+    -animations
+    -javascript
+4. About Page
