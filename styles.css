@@ -89,6 +89,8 @@ body {
 .logo-wrapper{
     width: 100%;
     margin-bottom: 20px;
+    justify-content: center;
+    margin-left: 100px;
 }
 
 .img-text-wrapper .subtitle {
@@ -124,4 +126,9 @@ filter:brightness(10%);
 
 .profile-content-wrapper h1{
     color:lightseagreen
+}
+
+.logo5{
+    width: 10%;
+    height:10%;
 }
